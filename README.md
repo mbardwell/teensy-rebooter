@@ -11,9 +11,9 @@ In the GIF below, you see us
 1. flash this program onto the rebooter Teensy
 2. connect to the program using `picocom`
 3. select pin 0 (by typing 0 in our keyboard)
-    * in the left pane, you will see a Teensy go from USB serial to HalfKey mode
+    * in the left pane, you will see a Teensy go from USB serial to HalfKay mode
 4. select pin 1 (by typing 1 in our keyboard)
-    * in the left pane, you will see a Teensy go from USB serial to HalfKey mode
+    * in the left pane, you will see a Teensy go from USB serial to HalfKay mode
 ![Rebooter v0.0.2 gif](docs/rebooterv0.0.2.gif)
 
 Here is a sample connection diagram with two Teensies to be programmed connected to one Rebooter Teensy.
